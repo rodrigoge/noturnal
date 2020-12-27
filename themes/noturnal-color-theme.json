@@ -1,11 +1,34 @@
 {
 	"name": "noturnal",
 	"type": "dark",
+	"author": "Rodrigo Gouveia",
+	"maintainers": [
+		"Rodrigo Gouveia <rgestevao@gmail.com>"
+	],
 	"colors": {
-		"editor.background": "#263238",
+		"editor.background": "#0a0218",
 		"editor.foreground": "#eeffff",
-		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbbbbb"
+		"activityBar.background": "#0a0218",
+		"activityBar.foreground": "#f1f1f1",
+		"activityBar.border": "#0d0122",
+		"sideBarTitle.foreground": "#FF79C6",
+		"sideBar.background": "#0d0122",
+		"list.hoverBackground": "#0a0218",
+		"list.focusBackground": "#0d0122",
+		"sideBarSectionHeader.background": "#0a0218",
+		"sideBarSectionHeader.border": "#0A0218",
+		"activityBarBadge.background": "#FF79C6",
+		"activityBarBadge.foreground": "#f1f1f1",
+		"menubar.selectionBackground": "#0a0218",
+		"panel.background": "#0a0218",
+		"statusBar.background": "#0a0218",
+		"tab.activeBackground": "#0d0122",
+		"tab.inactiveBackground": "#0a0218",
+		"tab.activeBorderTop": "#f931cd",
+		"editorGroupHeader.tabsBackground": "#0a0218",
+		"titleBar.activeBackground": "#0a0218",
+		"dropdown.background": "#0a0218",
+		"dropdown.listBackground": "#0a0218"
 	},
 	"tokenColors": [
 		{
@@ -56,7 +79,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#FF79C6"
 			}
 		},
 		{
@@ -76,7 +99,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#89DDFF"
+				"foreground": "#FF79C6"
 			}
 		},
 		{
@@ -100,7 +123,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#82AAFF"
+				"foreground": "#67E480"
 			}
 		},
 		{
@@ -109,7 +132,7 @@
 				"meta.block variable.other"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#E1E1E6"
 			}
 		},
 		{
@@ -135,7 +158,8 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#F78C6C"
+				"foreground": "#fa9b52",
+				"fontStyle": "italic"
 			}
 		},
 		{
@@ -150,7 +174,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#C3E88D"
+				"foreground": "#E7DE79"
 			}
 		},
 		{
@@ -189,7 +213,7 @@
 				"source.postcss support.type.property-name"
 			],
 			"settings": {
-				"foreground": "#B2CCD6"
+				"foreground": "#000"
 			}
 		},
 		{
