@@ -3,6 +3,7 @@
     "displayName": "noturnal",
     "description": "Night Theme, a dark theme inspired by the famous Dracula and Omni theme. 🌙",
     "version": "0.0.1",
+    "publisher": "noturnal",
     "engines": {
         "vscode": "^1.52.0"
     },
