@@ -1,0 +1,21 @@
+{
+    "name": "noturnal",
+    "displayName": "noturnal",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "noturnal",
+                "uiTheme": "vs-dark",
+                "path": "./themes/noturnal-color-theme.json"
+            }
+        ]
+    }
+}
