@@ -2,7 +2,7 @@
     "name": "dark",
     "displayName": "Noturnal",
     "description": "A dark theme inspired by the famous Dracula and Omni theme. 🌙",
-    "version": "0.7.0",
+    "version": "1.0.0",
     "publisher": "noturnal-theme",
     "license": "MIT",
     "engines": {
@@ -40,5 +40,7 @@
         "Dark",
         "Night Theme",
         "Themes"
-    ]
+    ],
+    "homepage": "https://github.com/rodrigoge/noturnal/blob/main/README.md",
+    "readme": "https://github.com/rodrigoge/noturnal/blob/main/README.md"
 }
