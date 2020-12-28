@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="assets/icon.png" alt="Noturnal"><br />
+<img src="assets/Owl.png" alt="Noturnal"><br />
 Noturnal
 </h1>
 
