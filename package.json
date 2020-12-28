@@ -1,9 +1,10 @@
 {
-    "name": "noturnal",
-    "displayName": "noturnal",
-    "description": "Night Theme, a dark theme inspired by the famous Dracula and Omni theme. 🌙",
-    "version": "0.0.1",
-    "publisher": "noturnal",
+    "name": "dark",
+    "displayName": "Noturnal",
+    "description": "A dark theme inspired by the famous Dracula and Omni theme. 🌙",
+    "version": "0.7.0",
+    "publisher": "noturnal-theme",
+    "license": "MIT",
     "engines": {
         "vscode": "^1.52.0"
     },
@@ -23,6 +24,10 @@
         "type": "git",
         "url": "https://github.com/rodrigoge/noturnal.git"
     },
+    "bugs": {
+        "url": "https://github.com/rodrigoge/noturnal/issues"
+    },
+    "author": "Rodrigo Gouveia <rgestevao@gmail.com>",
     "galleryBanner": {
         "color": "#0a0218",
         "theme": "dark"
