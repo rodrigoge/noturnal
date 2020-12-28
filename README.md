@@ -1,11 +1,12 @@
 <h1 align="center">
-<img src="assets/icon.png" alt="Noturnal"><br />
-Noturnal
+    ![Theme Screenshot](assets/Owl.png)
+    Noturnal
 </h1>
 
 <p align="center">
-Just a preview.
-<img src="assets/snapshot.gif" alt="preview"/></p>
+    Just a preview.
+    ![Theme Screenshot](assets/snapshot.gif)
+</p>
 
 # Overview
 
@@ -48,4 +49,4 @@ MIT ©
 This project was developed using the license from MIT. See more about the [LICENSE](https://github.com/rodrigoge/noturnal-theme/blob/master/LICENSE) for more information.
 
 
-Made with :heart: by [Rodrigo Gouveia.] [![Linkedin Badge](https://img.shields.io/badge/-Rodrigo%20Gouveia-2867B2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigogest//)](https://www.linkedin.com/in/rodrigogest/) :v:
+Made with 💜 by [Rodrigo Gouveia.] [![Linkedin Badge](https://img.shields.io/badge/-Rodrigo%20Gouveia-2867B2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigogest//)](https://www.linkedin.com/in/rodrigogest/) ✌️
