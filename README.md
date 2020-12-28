@@ -1,11 +1,10 @@
 <h1 align="center">
-<img src="assets/Owl.png" alt="Noturnal"><br />
 Noturnal
 </h1>
+![Theme Screenshot](assets/Owl.png)
 
-<p align="center">
 Just a preview.
-<img src="assets/snapshot.gif" alt="preview"/></p>
+![Theme Screenshot](assets/snapshot.gif)
 
 # Overview
 
