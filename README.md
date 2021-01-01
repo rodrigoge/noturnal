@@ -5,7 +5,7 @@
 
 A small preview on the theme.
 
-![Theme Screenshot](assets/snapshot.gif)
+![Theme Screenshot](assets/screenshot.jpg)
 
 # Overview
 
