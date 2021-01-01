@@ -2,7 +2,7 @@
     "name": "dark",
     "displayName": "Noturnal",
     "description": "A theme created using dark mode and utilizing a little vaporwave style. 🌙",
-    "version": "1.0.2",
+    "version": "1.0.10",
     "publisher": "noturnal-theme",
     "license": "MIT",
     "engines": {
@@ -41,6 +41,6 @@
         "Night Theme",
         "Themes"
     ],
-    "homepage": "https://github.com/rodrigoge/noturnal/blob/main/README-mkt.md",
-    "readme": "https://github.com/rodrigoge/noturnal/blob/main/README-mkt.md"
+    "homepage": "https://github.com/rodrigoge/noturnal/blob/main/README.md",
+    "readme": "https://github.com/rodrigoge/noturnal/blob/main/README.md"
 }
