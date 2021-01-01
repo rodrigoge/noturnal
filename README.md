@@ -1,25 +1,27 @@
 <h1 align="center">
-Noturnal
+    <img src="assets/Owl.png" width="70px">
+    <div>Noturnal</div>
 </h1>
-![Theme Screenshot](assets/Owl.png)
 
-Just a preview.
+A small preview on the theme.
+
 ![Theme Screenshot](assets/snapshot.gif)
 
 # Overview
 
-A dark theme from Visual Studio Code
+A theme created using dark mode and utilizing a little vaporwave style. 🌙
 
+- [About concept](#about-concept)
 - [How to install?](#how-to-install)
 - [I need a help](#need-help)
 - [License](#license)
 
-# Need help
+# About concept
 
-If you need help with Noturnal, feel free to send an email to [![Gmail Badge](https://img.shields.io/badge/-rgestevao@gmail.com-D44638?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rgestevao@gmail.com)](mailto:rgestevao@gmail.com)
+The theme was inspired by the <a href="https://en.wikipedia.org/wiki/Vaporwave">vaporwave style</a>, which is a concept of visual art that emerged in the early 2010s. It is characterized by a nostalgic fascination with the aesthetics of the 80s and 90s, including references to various cultural aspects sought at the time.
 
 # How to Install
-### [Visual Studio Code](https://code.visualstudio.com/)
+#### You need install the [Visual Studio Code](https://code.visualstudio.com/). Click this link and install the IDE.
 
 #### Install using Command Palette
 
@@ -32,7 +34,7 @@ If you need help with Noturnal, feel free to send an email to [![Gmail Badge](ht
 
 If you are a git user, you can install the theme and keep up to date by cloning the repo:
 
-    $ git clone https://github.com/rodrigoge/noturnal-theme.git ~/.vscode/extensions/noturnal-theme
+    $ git clone https://github.com/rodrigoge/noturnal.git ~/.vscode/extensions/noturnal
     $ cd ~/.vscode/extensions/noturnal
     $ npm install
     $ npm run build
@@ -41,10 +43,18 @@ If you are a git user, you can install the theme and keep up to date by cloning 
 
 Run Visual Studio Code. The Noturnal theme will be available from `File -> Preferences -> Color Theme` dropdown menu.
 
+# Need help
+
+Case you to need help with Noturnal, please send a email to <a href="mailto:rgestevao@gmail.com">rgestevao@gmail.com</a>, and i will go to fix your problem.
+
 # License
 
-MIT © 
-This project was developed using the license from MIT. See more about the [LICENSE](https://github.com/rodrigoge/noturnal-theme/blob/master/LICENSE) for more information.
+This project was developed using the license from MIT. See more about the [LICENSE](https://github.com/rodrigoge/noturnal/blob/master/LICENSE) for more information.
+
+___
 
 
-Made with :heart: by [Rodrigo Gouveia.] [![Linkedin Badge](https://img.shields.io/badge/-Rodrigo%20Gouveia-2867B2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigogest//)](https://www.linkedin.com/in/rodrigogest/) :v:
+Made with 💜 developed by <a href="https://github.com/rodrigoge">Rodrigo Gouveia</a>.
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-Rodrigo%20Gouveia-2867B2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigogest//)](https://www.linkedin.com/in/rodrigogest/) [![Gmail Badge](https://img.shields.io/badge/-rgestevao@gmail.com-D44638?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rgestevao@gmail.com)](mailto:rgestevao@gmail.com) [![Github Badge](https://img.shields.io/github/followers/rodrigoge?label=Rodrigo%20Gouveia&logo=GitHub&logoColor=black&style=social)](https://www.linkedin.com/in/rodrigogest/) 
