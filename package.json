@@ -1,0 +1,46 @@
+{
+    "name": "dark",
+    "displayName": "Noturnal",
+    "description": "A theme created using dark mode and utilizing a little vaporwave style. 🌙",
+    "version": "1.0.11",
+    "publisher": "noturnal-theme",
+    "license": "MIT",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "noturnal",
+                "uiTheme": "vs-dark",
+                "path": "./themes/noturnal-color-theme.json"
+            }
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/rodrigoge/noturnal.git"
+    },
+    "bugs": {
+        "url": "https://github.com/rodrigoge/noturnal/issues"
+    },
+    "author": "Rodrigo Gouveia <rgestevao@gmail.com>",
+    "galleryBanner": {
+        "color": "#0a0218",
+        "theme": "dark"
+    },
+    "icon": "assets/Owl.png",
+    "keywords": [
+        "Noturnal",
+        "Noturno",
+        "Dark Theme",
+        "Dark",
+        "Night Theme",
+        "Themes"
+    ],
+    "homepage": "https://github.com/rodrigoge/noturnal/blob/main/README.md",
+    "readme": "https://github.com/rodrigoge/noturnal/blob/main/README.md"
+}
